@@ -2,6 +2,16 @@ h1 {
   background: yellow;
 }
 
+section h1 {
+  background: red;
+}
+section h2 {
+  background: yellow;
+}
+section p {
+  background: green;
+}
+
 footer {
   background: yellow;
 }
