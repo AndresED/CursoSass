@@ -1,29 +1,4 @@
-$colorUno:red;
-$colorDos:yellow;
-$colorTres:green;
-h1 {
-    background: yellow;
-}
-
-section {
-    h1 {
-        background: $colorUno;
-    }
-    h2 {
-        background: $colorDos;
-    }
-    p {
-        background: $colorTres;
-    }
-}
-
-footer {
-    background: yellow;
-    h2 {
-        font-weight: bold;
-        color: red;
-        a {
-            color: green;
-        }
-    }
-}
+@import "variables";
+@import "header";
+@import "section";
+@import "footer";

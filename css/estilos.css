@@ -1,26 +1,16 @@
-h1 {
-  background: yellow;
-}
-
-section h1 {
+header {
+  height: 200px;
   background: red;
 }
-section h2 {
-  background: yellow;
-}
-section p {
+
+section {
+  height: 200px;
   background: green;
 }
 
 footer {
-  background: yellow;
-}
-footer h2 {
-  font-weight: bold;
-  color: red;
-}
-footer h2 a {
-  color: green;
+  height: 200px;
+  background: orange;
 }
 
 /*# sourceMappingURL=estilos.css.map */
