@@ -2,4 +2,15 @@ h1 {
   background: yellow;
 }
 
+footer {
+  background: yellow;
+}
+footer h2 {
+  font-weight: bold;
+  color: red;
+}
+footer h2 a {
+  color: green;
+}
+
 /*# sourceMappingURL=estilos.css.map */
